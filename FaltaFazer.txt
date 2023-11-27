@@ -1,0 +1,10 @@
+Teste 1: COMPLETO
+Teste 2: COMPLETO
+Teste 3: COMPLETO
+Teste 4: COMPLETO
+Teste 5: COMPLETO
+Teste 6: Ordenação dos veiculos preco
+Teste 7: COMPLETO
+Teste 8: COMPLETO
+Teste 9: COMPLETO
+Teste 10: Listar por data de ocorrencia, erro lá
